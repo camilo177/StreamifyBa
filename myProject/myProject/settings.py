@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-06nmgopzanw+dhbexs1jg3=tt8+*259z**+&if$l=m)1adge@u
 
 DEBUG = True
 
-ALLOWED_HOSTS = ["backstreamify.azurewebsites.net", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["backstream.azurewebsites.net", "localhost", "127.0.0.1"]
 
 SESSION_COOKIE_SECURE = False
 
